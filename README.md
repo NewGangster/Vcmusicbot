@@ -10,4 +10,4 @@ Gang
 
 - [@JINN](https://github.com/MR-JINN-OF-TG)
 
-- [@GANG](NOT)
+- [@GANG](https://github.com/NewGangster)
