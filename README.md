@@ -3,6 +3,6 @@
 
 ## 🎵 Now playing
 <a href="https://spotify.com/" target="_blank"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>
-##credits
+## Credits
 Jin
 
