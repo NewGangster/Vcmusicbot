@@ -6,3 +6,8 @@
 ## Credits
 Jin
 Gang
+### Developers:
+
+- [@JINN](NOTHING)
+
+- [@GANG](NOTHING)
