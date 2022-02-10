@@ -12,6 +12,8 @@ Gang
 
 - [@GANG](https://github.com/NewGangster)
 
+ <img src="https://telegra.ph/file/844cf4e9f50bce6044dac.png">
+
 
 ## ✨ Features
 - Music & Video stream support
