@@ -8,6 +8,6 @@ Jin
 Gang
 ### Developers:
 
-- [@JINN](NOTHING)
+- [@JINN](https://github.com/MR-JINN-OF-TG)
 
-- [@GANG](NOTHING)
+- [@GANG](NOT)
