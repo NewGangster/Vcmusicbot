@@ -12,7 +12,7 @@ Gang
 
 - [@GANG](https://github.com/NewGangster)
 
- <img src="https://telegra.ph/file/844cf4e9f50bce6044dac.png">
+ <img src="https://te.legra.ph/file/3fa29cb8757315291de0b.jpg">
 
 
 ## ✨ Features
