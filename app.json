@@ -10,7 +10,7 @@
     ],
     "website": "https://t.me/gangsterbotschannel",
     "repository": "https://github.com/NewGangster/Vcmusicbot",
-    "success_url": "https://t.me/xAbhish3k",
+    "success_url": "https://t.me/Gangster_Official_Telegram",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
