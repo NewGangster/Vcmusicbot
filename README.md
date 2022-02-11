@@ -61,6 +61,6 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 
 
 ### Support & Updates 🎑
-<a href="https://t.me/gangsterofficialbots"><img src="https://img.shields.io/badge/Join-Group%20Support-green.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/gangsterbotschannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/gangsterofficialbots"><img src="https://img.shields.io/badge/Join-Group%20Support-green.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/gangsterbotschannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-green.svg?style=for-the-badge&logo=Telegram"></a>
 
 
